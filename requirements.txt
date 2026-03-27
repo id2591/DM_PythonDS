@@ -1,0 +1,5 @@
+pandas==2.3.3
+great_tables==0.21.0
+typing_extensions==4.15.0
+cartiflette==0.1.9
+matplotlib==3.10.8
